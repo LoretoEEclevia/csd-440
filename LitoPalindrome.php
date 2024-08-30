@@ -3,7 +3,6 @@ Loreto E Eclevia
 Module 4
 Bellevue University
 August 16, 2024
-DO NOT FORGET Similar to your last three programming assignments, title the PHP file as <YourFirstName> Palindrome.php
 -->
 
 
@@ -17,6 +16,8 @@ DO NOT FORGET Similar to your last three programming assignments, title the PHP 
 </head>
 <body>
    <?php
+
+// DO NOT FORGET Similar to your last three programming assignments, title the PHP file as <YourFirstName> Palindrome.php
 
 /**
  * Function to check if a string is a palindrome.
